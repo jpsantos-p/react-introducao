@@ -27,9 +27,9 @@ const App = () => {
 
       <Musico instrumento={"guitarra"} banda={"Led Zeppelin"} />
       <Musico instrumento={"bateria"} banda={"Red Hot Chilli Peppers"} /> */}
-      {/* <Contador/>
-      <Interruptor /> */}
-      <Menu />
+      {/* <Contador /> */}
+      <Interruptor /> 
+      {/* </Menu /> */}
     </>
 
   );
